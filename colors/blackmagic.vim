@@ -1,7 +1,7 @@
 " Vim color file blackmagick
 " http://github.com/reifcode/blackmagick.vim
 
-set background=dark
+set background=dark 
 hi clear
 if exists("syntax_on")
 	syntax reset
